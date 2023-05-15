@@ -2,6 +2,6 @@
 table {
     background: yellow;
 }
-tr, th, td{
-    border: 2px solid black;
+table, tr, th, td{
+    border: 1px solid rgb(0, 0, 0);
 }
